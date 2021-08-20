@@ -15,8 +15,11 @@ Follow the steps below to run the example:
 
 ## Future
  1 - Missing error Handling
+ 
  2 - missing show better when some error comes up
+ 
  3 - allow to get from other places not only Portugal
+ 
  4 - make it more scalable
  
 
